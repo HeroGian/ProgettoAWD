@@ -1,0 +1,4 @@
+CREATE TABLE POSTS_TAGS(
+	POSTID INT CONSTRAINT fk_postid REFERENCES Posts    (postid),
+	TAGID  INT CONSTRAINT fk_tagid  REFERENCES Tags (tagid)
+);
