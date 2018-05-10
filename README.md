@@ -24,3 +24,7 @@ collegarsi su http://localhost:8080
 ### Versione online ###
 
 http://canecarroarmato.ml:8080
+
+### Documentazione ###
+
+https://github.com/HeroGian/ProgettoAWD/doc.pdf
