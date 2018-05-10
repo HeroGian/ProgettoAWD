@@ -27,4 +27,4 @@ http://canecarroarmato.ml:8080
 
 ### Documentazione ###
 
-https://github.com/HeroGian/ProgettoAWD/doc.pdf
+https://github.com/HeroGian/ProgettoAWD/blob/master/doc.pdf
